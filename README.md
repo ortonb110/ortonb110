@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ortonb110
+- 👋 Hi, I’m Bright Orton, a Ghanaian computer programmer.
 - 👀 I’m interested in android developement, web development and ios
 - 🌱 I’m currently learning HTML, CSS and Javascript and also a college computer science student
 - 💞️ I’m looking to collaborate on anything beginner friendly
