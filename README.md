@@ -7,17 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/brightkwaborton" target="blank"><img src="https://img.shields.io/twitter/follow/brightkwaborton?logo=twitter&style=for-the-badge" alt="brightkwaborton" /></a> </p>
 
-- 🔭 I’m currently working on [Frontend Mentor Projects](https://www.frontendmentor.io/home)
+- 👯 I’m looking to collaborate on **React.js/Next.JS Projects**
 
-- 🌱 I’m currently learning **Node.js Express, React.js Next.js Tailwindcss**
+- 💬 Ask me about **React, Tailwindcss, NextJS, NodeJS, MySQL, Database Managment, Backend and Frontend Development**
 
-- 👯 I’m looking to collaborate on **React.js Projects**
-
-- 💬 Ask me about **React, Tailwindcss**
-
-- 📫 How to reach me **ortonb110@gmail.com**
-
-- ⚡ Fun fact **I'm terrible at making others laugh hehe.**
+- 📫 How to reach me **kobedev110@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
