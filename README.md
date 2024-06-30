@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bright Orton</h1>
-<h3 align="center">A CS Student at Accra Technical University and a passionate Full Stack Developer</h3>
+<h3 align="center">I'm a Computer Science Grad and a Passionate Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ortonb110&label=Profile%20views&color=0e75b6&style=flat" alt="ortonb110" /> </p>
 
