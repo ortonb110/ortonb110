@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ortonb110" alt="ortonb110" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/brightkwaborton" target="blank"><img src="https://img.shields.io/twitter/follow/brightkwaborton?logo=twitter&style=for-the-badge" alt="brightkwaborton" /></a> </p>
+<p align="left"> <a href="https://x.com/KobeDevGH" target="blank"><img src="https://img.shields.io/twitter/follow/brightkwaborton?logo=twitter&style=for-the-badge" alt="brightkwaborton" /></a> </p>
 
 - 👯 I’m looking to collaborate on **React.js/Next.JS Projects**
 
