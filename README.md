@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bright Orton</h1>
 <h3 align="center">I'm a Computer Science Grad and a Passionate Fullstack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ortonb110&label=Profile%20views&color=0e75b6&style=flat" alt="ortonb110" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ortonb110" alt="ortonb110" /></a> </p>
 
 <p align="left"> <a href="https://x.com/KobeDevGH" target="blank"><img src="https://img.shields.io/twitter/follow/brightkwaborton?logo=twitter&style=for-the-badge" alt="brightkwaborton" /></a> </p>
