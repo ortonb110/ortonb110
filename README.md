@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React Native, Systems Design**
 
-- 👨‍💻 All of my projects are available at [https://www.kobedev.tech/](https://www.kobedev.tech/)
+- 👨‍💻 All of my projects are available at [https://www.kobedev.com/](https://www.kobedev.com/)
 
 - 💬 Ask me about **React, Nextjs, NodeJS, ExpressJs, TypeScript**
 
 - 📫 How to reach me **ortonb110@gmail.com**
 
-- 📄 Know about my experiences [https://www.kobedev.tech/](https://www.kobedev.tech/)
+- 📄 Know about my experiences [https://www.kobedev.com/](https://www.kobedev.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
