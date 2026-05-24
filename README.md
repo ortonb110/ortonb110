@@ -16,4 +16,5 @@
 - 📫 How to reach me **ortonb110@gmail.com**
 
 - 📄 Know about my experiences [https://www.kobedev.com/](https://www.kobedev.com/)
+- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ortonb110&show_icons=true&locale=en" alt="ortonb110" /></p>
 </p>
