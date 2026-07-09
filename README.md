@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ortonb110" alt="ortonb110" /></a> </p>
 
-- 🔭 I’m currently working on [Salafric](http://salafric.com/)
+- 🔭 I’m currently working on [Lumivo]
 
 - 🌱 I’m currently learning **React Native, Systems Design**
 
